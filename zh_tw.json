@@ -96,6 +96,8 @@
   "settings_password_desc": "端到端加密的密碼。不填寫則代表沒密碼。您需要點選“確認”來修改。注意：密碼和其它資訊都會在本地儲存。",
   "settings_autorun": "自動執行",
   "settings_autorun_desc": "每隔一段時間，此外掛嘗試自動同步。會影響到電池用量。",
+  "settings_modifyrun": "文件修改後自動運行",
+  "settings_modifyrun_desc": "自動運行會在文件修改時觸發。",
   "settings_autorun_notset": "（不設定）",
   "settings_autorun_1min": "每 1 分鐘",
   "settings_autorun_5min": "每 5 分鐘",
