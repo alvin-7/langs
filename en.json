@@ -97,7 +97,7 @@
   "statusbar_time_days": "{{time}} days",
   "statusbar_time_hours": "{{time}} hours",
   "statusbar_time_minutes": "{{time}} minutes",
-  "statusbar_time_lessminute": "<1 minute",
+  "statusbar_time_lessminute": "less 1 minute",
   "statusbar_lastsync": "Synced {{time}} ago",
   "statusbar_lastsync_label": "Last {{date}}",
   "statusbar_lastsync_never": "Never Synced",
